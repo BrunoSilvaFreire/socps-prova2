@@ -10,7 +10,7 @@
     <h2>Avaliação SOCPS II</h2>
     <h1>Bruno Ribeiro Braga Silva Freire</h1>
     <p><?php
-    echo "Today is " . date("Y/m/d") . "<br>";
+    echo "Today is " . date("Y-m-d H:i:s") . "<br>";
     ?></p>
 </body>
 </html>
